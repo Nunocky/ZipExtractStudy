@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZipExtractStudy</string>
+    <string name="read">Read</string>
+    <string name="clear">Clear</string>
+</resources>
